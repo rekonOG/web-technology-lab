@@ -1,12 +1,12 @@
 body {
-    background: #f4f7f8;
+    background: burlywood;
     font-family: 'Segoe UI', sans-serif;
 }
 
 .container {
     width: 400px;
     margin: 50px auto;
-    background: white;
+    background: antiquewhite;
     padding: 20px 30px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
@@ -48,3 +48,4 @@ button:hover {
 #result {
     margin-top: 20px;
 }
+
